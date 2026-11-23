@@ -1,0 +1,19 @@
+ATANASISTAS ECOGUARDIANES DE LA VIDA 1101
+Sitio web del proyecto final ABP #4 - Curso 1101
+
+CONTENIDO
+- index.html: página web completa.
+- assets/: escudo, 9 fotografías originales y 2 videos originales de la compostera.
+
+CÓMO VERLA
+1. Descomprime este archivo ZIP.
+2. Abre la carpeta atanasistas_ecoguardianes_1101.
+3. Abre index.html con Chrome o cualquier navegador moderno.
+
+La galería utiliza las fotografías y videos originales proporcionados para el proyecto.
+La portada no descarga imágenes externas.
+
+CÓMO PUBLICARLA GRATIS
+Puedes subir la carpeta completa a un servicio de alojamiento estático, por ejemplo GitHub Pages o Netlify.
+Debes subir index.html y la carpeta assets juntos; no subas solamente index.html.
+La página no queda publicada en Internet solo por descargar este ZIP.
